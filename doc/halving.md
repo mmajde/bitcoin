@@ -1,0 +1,1 @@
+Bitcoin halving is implemented in function `GetBlockSubsidy`

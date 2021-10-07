@@ -61,7 +61,7 @@
 #include <boost/algorithm/string/replace.hpp>
 
 #define MICRO 0.000001
-#define MIL50LI 0.001
+#define MILLI 0.001
 
 /**
  * An extra transaction can be added to a package, as long as it only has one

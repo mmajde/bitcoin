@@ -2,3 +2,5 @@ At the beginning of Bitcoin project 50 COINs were rewarded for every block found
 The reward is being cut in half approximately every 4 years.
 
 Extra text.
+
+Here it works...

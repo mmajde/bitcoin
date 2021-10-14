@@ -41,7 +41,7 @@ AC_CANONICAL_HOST
 AH_TOP([#ifndef BITCOIN_CONFIG_H])
 AH_TOP([#define BITCOIN_CONFIG_H])
 AH_BOTTOM([#endif //BITCOIN_CONFIG_H])
-
+something
 dnl faketime breaks configure and is only needed for make. Disable it here.
 unset FAKETIME
 
